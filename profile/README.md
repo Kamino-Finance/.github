@@ -1,3 +1,3 @@
 ## Kamino
 
-Visit [kamino.com/build](kamino.com/build) for more information.
+Visit [kamino.com/build](https://kamino.com/build) for more information.
