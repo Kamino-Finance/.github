@@ -1,9 +1,6 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Kamino-Finance/.github/master/profile/logo.png" width="90" alt="Kamino Logo" />
+    <img src="https://raw.githubusercontent.com/Kamino-Finance/.github/master/profile/logo.png" width="150" alt="Kamino Logo" />
   </p>
-
-  <h1 align="center">Kamino Finance</h1>
-
   <p align="center">
     All-in-one DeFi protocol on Solana for lending, borrowing, liquidity, and leverage.
   </p>
@@ -27,8 +24,8 @@
 ## Core Lending
 
 * **[klend](https://github.com/Kamino-Finance/klend)** — Kamino Lending program
-* **[klend-sdk](https://github.com/Kamino-Finance/klend-sdk)** — TypeScript SDK for Kamino Lending
-* **[kvault](https://github.com/Kamino-Finance/kvault)** — Lending vault program
+* **[klend-sdk](https://github.com/Kamino-Finance/klend-sdk)** — TypeScript SDK for Kamino Lending and Vault
+* **[kvault](https://github.com/Kamino-Finance/kvault)** — Kamino Vault program
 
 ### Tutorials and Examples
 
@@ -42,7 +39,7 @@
 
 * **[kfarms](https://github.com/Kamino-Finance/kfarms)** — Farms program
 * **[farms-sdk](https://github.com/Kamino-Finance/farms-sdk)** — TypeScript SDK for farms
-* **[kliquidity-sdk](https://github.com/Kamino-Finance/kliquidity-sdk)** — Liquidity program SDK
+* **[kliquidity-sdk](https://github.com/Kamino-Finance/kliquidity-sdk)** — TypeScript SDK for liquidity
 
 
 
