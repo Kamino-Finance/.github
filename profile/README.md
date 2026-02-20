@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Kamino-Finance/.github/master/profile/logo.svg" width="90" alt="Kamino Logo" />
+    <img src="https://raw.githubusercontent.com/Kamino-Finance/.github/master/profile/logo.png" width="90" alt="Kamino Logo" />
   </p>
 
   <h1 align="center">Kamino Finance</h1>
