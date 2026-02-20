@@ -19,7 +19,7 @@
 
   ---
 
-> **Getting started?** The [Developer Docs](https://kamino.com/docs/build) are the best entry point. For SDK integration, start with [klend-sdk](https://github.com/Kamino-Finance/klend-sdk).
+> **Getting started?** The [Developer Docs](https://kamino.com/docs/build) are the best entry point. For SDK integration, start with [klend-sdk](https://github.com/Kamino-Finance/klend-sdk). For AI agents, check out [the kamino skill](https://kamino.com/docs/skill.md) and [llms.txt](https://kamino.com/docs/llms.txt).
 
 ## Core Lending
 
