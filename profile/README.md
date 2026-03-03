@@ -59,7 +59,6 @@
 
 ## Dev Assets
 
-* **[idls](https://github.com/Kamino-Finance/idls)** — Public Kamino IDLs
 * **[audits](https://github.com/Kamino-Finance/audits)** — Smart contract audit reports
 * **[anchor-client-gen](https://github.com/Kamino-Finance/anchor-client-gen)** — Anchor IDL client generator
 * **[distributor](https://github.com/Kamino-Finance/distributor)** — Merkle-based token distributor
