@@ -1,0 +1,12 @@
+name: Audit Tracker — Project Board Sync
+
+on:
+    projects_v2_item:
+        types: [edited]
+
+jobs:
+    sync:
+        uses: Kamino-Finance/audit-tracker-workflow/.github/workflows/project-sync.yml@main
+        secrets:
+            AUDIT_TRACKER_APP_ID: ${{ secrets.AUDIT_TRACKER_APP_ID }}
+            AUDIT_TRACKER_APP_PRIVATE_KEY: ${{ secrets.AUDIT_TRACKER_APP_PRIVATE_KEY }}
